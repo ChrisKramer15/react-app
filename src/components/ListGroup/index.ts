@@ -1,4 +1,4 @@
 import ListGroup from "./ListGroup";
-import "./ListGroup.css";
+import styles from "./ListGroup.module.css";
 
 export default ListGroup;
